@@ -1,0 +1,15 @@
+void ikinciasama(void);
+void grafikciz2(int dizi[], int uzunluk, int grafikNum);
+void Curl_Devam2(void);
+void sonrasaaparim2(int dizi[], int uzunluk, int grafikNum);
+float* floatdondurme2(int dizi[], int uzunluk);
+void karebirimler2(int dizi[], int* uzunluk);
+int olurmu(int** matris, int i, int j, int kac, int n, int m);
+void karebirim4x4(int** matris, int dizi[], int uzunluk);
+int** olusturMatris(int satir, int sutun);
+void kare_ciz3(float x, float y, float size, float r, float g, float b, float alpha);
+void karebirim2x2(int** matris, int dizi[], int uzunluk);
+void aktar2(int grafiknumarasi, int birimsondaj, int birimplat);
+void karebirim8x8(int** matris, int dizi[], int uzunluk);
+void karebirim16x16(int** matris, int dizi[], int uzunluk);
+void hesapyap(int** matris, int* dizi, int minx, int miny, int n, int m, int kacbirim);
